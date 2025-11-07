@@ -127,3 +127,7 @@ footer {
   padding: 15px 0;
   font-size: 0.9rem;
 }
+.service:hover{
+  transform: transLateY(-5px);
+}
+
